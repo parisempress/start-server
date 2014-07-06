@@ -19,3 +19,5 @@ var app = skeleton.bootApp({
 // start
 app.run (function(app){
 // callback after initialization});
+
+Skeleton Code (Attempt1)
